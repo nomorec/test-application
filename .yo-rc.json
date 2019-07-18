@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "testapplication",
+    "packageName": "co.test.co",
+    "packageFolder": "co/test/co",
+    "serverPort": 8090,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "ODgzYWNmNDJmNDhjMWIyZWYxNGFiY2YwMzg3MjhlNzM4ZTZhZGY2OWE2OGJkNzJlMGVlNjllNTk4NTAyZTFiNjE4ZGRhMDQ1MTU0OGE4YWYwODA1NGE2MWVmMzQ5NmVlZWIxYzU2MmQ5ZmQ0ZjBjYjNhZDJjMDA0ZTEwZDQ5ZWI=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "nomorec",
+  "repository-name": "test-application"
+}
